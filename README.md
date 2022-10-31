@@ -1,5 +1,6 @@
 # SideProject_JavaSwing_Game_LiaoZhai
 開始學程式，一個月後，
+
 我寫了第一個Java作品-倩女幽魂，
 從遊戲設計到簡易作圖都是我自己包辦的。
 
