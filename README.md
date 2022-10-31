@@ -15,3 +15,5 @@
 那時我的作品在小組評比是前三名，更奠定了我對程式的熱情。
 
 當然現在看來，如果OOP運用得好，代碼會更加簡潔!
+
+![image](https://github.com/Kevin-Wei-S/SideProject_JavaSwing_Game_LiaoZhai/raw/master/GameShot.png)
