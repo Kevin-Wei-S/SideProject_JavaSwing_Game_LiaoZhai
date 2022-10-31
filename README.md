@@ -1,6 +1,8 @@
 # SideProject_JavaSwing_Game_LiaoZhai
 2021年9月中旬
 
+在聯成的Java&Python班
+
 從0基礎開始學Java，一個月後，
 
 我寫了第一個Java作品-倩女幽魂，
